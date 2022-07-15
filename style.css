@@ -88,14 +88,17 @@ main {
 
 }
 
+
+
 div.video {
     background-color: #012b01;
     margin: 0px -20px 30px -20px;
     padding: 20px;
     padding-bottom: 58%;
-
+    
     position: relative;
 }
+
 
 div.video > iframe {
     position:absolute;
